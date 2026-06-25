@@ -1,0 +1,24 @@
+Dear Editor,
+
+I am submitting the manuscript SVLS v2.1 (Formula M) A Unified Explanation of FRB and Pulsar Luminosities for consideration as a Letter in Astronomy & Astrophysics.
+
+This paper presents a unified phenomenological framework that explains two long-standing anomalies in pulsar astrophysics
+1. The 2-3x hyper-luminosity of Fast Radio Bursts relative to standard coherent emission models
+2. The systematic 0.3 dex scatter in pulsar radio luminosities relative to the empirical L ∝ Ė^0.5 scaling
+
+The key results are
+- SVLS v2.1 (Formula M) eliminates the systematic offset with only one free parameter (η = 2.32 ± 0.14)
+- The theory achieves Bayes factor K = 18.3 (strong evidence) against the standard model
+- All five pre-defined falsification criteria are satisfied
+- The framework is compatible with any microphysical emission model
+
+This work is suitable for A&A Letters because it presents a concise, testable theory with immediate implications for upcoming observatories (SKA, EHT, CHIME).
+
+I confirm that this manuscript is original, has not been published elsewhere, and is not under consideration by another journal.
+
+Thank you for considering this work.
+
+Sincerely,
+Motrosov, A. A.
+Independent Researcher
+kolatec@yandex.ru
